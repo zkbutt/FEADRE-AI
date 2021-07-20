@@ -12,13 +12,13 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'mypackage'
-DESCRIPTION = 'My short description for my project.'
-URL = 'https://github.com/me/myproject'
-EMAIL = 'me@example.com'
-AUTHOR = 'Awesome Soul'
-REQUIRES_PYTHON = '>=3.6.0'
-VERSION = '0.1.0'
+NAME = 'FEADRE-AI'
+DESCRIPTION = 'My PyTorch AI framework and tools.'
+URL = 'https://github.com/zkbutt/FEADRE-AI.git'
+EMAIL = '318740003@qq.com'
+AUTHOR = 'FEADRE'
+REQUIRES_PYTHON = '>=3.7.0'
+VERSION = '1.0.0'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
